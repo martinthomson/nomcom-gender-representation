@@ -1,16 +1,14 @@
-# Internet-Draft Template Repository
+# Gender Representation in the IETF Nominating Committee
 
-Use this repository as a template if you want to start working on
-[IETF](https://www.ietf.org/) documents.
+This is the working area for the individual Internet-Draft, "Gender Representation in the IETF Nominating Committee".
 
-[Read the
-instructions](https://github.com/martinthomson/i-d-template/blob/main/doc/TEMPLATE.md)
-for more information.
+## Building the Draft
 
-Once you have created your own repository, start work by:
+Formatted text and HTML versions of the draft can be built using `make`.
 
-1. Set "Workflow permissions" to "Read and write permissions"
-   [in the repository settings](../../settings/actions#actions_default_workflow_permissions_write).
+```sh
+$ make
+```
 
-2. Rename the `draft-todo-yourname-protocol.md` file
-   [here](../../edit/main/draft-todo-yourname-protocol.md).
+This requires that you have the necessary software installed.  See
+[the instructions](https://github.com/martinthomson/i-d-template/blob/master/doc/SETUP.md).
