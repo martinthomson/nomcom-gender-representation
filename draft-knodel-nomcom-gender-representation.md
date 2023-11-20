@@ -9,17 +9,17 @@ number:
 date:
 consensus: true
 v: 3
-area: GENART
-workgroup: 
+area: "General"
+workgroup: "Operation of the IESG/IAB Nominating and Recall Committees"
 keyword:
  - gender
 venue:
-  group: 
-  type: 
-  mail: 
-  arch: 
-  github: mallory/nomcom-gender-representation
-  latest: 
+  group: "Operation of the IESG/IAB Nominating and Recall Committees"
+  type: "Working Group"
+  mail: "ietf-nomcom@lists.elistx.com"
+  arch: "https://lists.elistx.com/archives/ietf-nomcom/"
+  github: "mallory/nomcom-gender-representation"
+  latest: "https://mallory.github.io/nomcom-gender-representation/draft-knodel-nomcom-gender-representation.html"
 
 author:
  -
