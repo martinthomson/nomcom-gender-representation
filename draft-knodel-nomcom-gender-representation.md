@@ -3,7 +3,7 @@ title: "Gender Representation in the IETF Nominating Committees"
 abbrev: "nomcom-gender-representation"
 category: info
 
-docname: draft-knodel-nomcom-gender-representation-latest
+docname: draft-knodel-nomcom-gender-representation-00
 submissiontype: IETF
 number:
 date:
