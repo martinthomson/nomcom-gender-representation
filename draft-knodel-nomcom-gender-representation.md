@@ -3,12 +3,14 @@ title: "Gender Representation in the IETF Nominating Committees"
 abbrev: "nomcom-gender-representation"
 category: info
 
+
 docname: draft-knodel-nomcom-gender-representation-latest
 submissiontype: IETF
 number:
 date:
 consensus: true
 v: 3
+
 area: GENART
 workgroup: 
 keyword:
@@ -18,8 +20,9 @@ venue:
   type: 
   mail: 
   arch: 
-  github: mallory/nomcom-gender-representation
-  latest: 
+  github: "mallory/nomcom-gender-representation"
+  latest: "https://mallory.github.io/nomcom-gender-representation/draft-knodel-nomcom-gender-representation.html"
+
 
 author:
  -
